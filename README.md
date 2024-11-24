@@ -1,7 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Header Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile)
-
 ## 🧑‍💻 About Me
 
 Hi there! My name is **Jan Wolski**, and I am a Computer Science and Bioinformatics student. I am passionate about software development (especially AI dev), data analysis, and solving biological problems using cutting-edge technology.
@@ -11,12 +9,20 @@ Hi there! My name is **Jan Wolski**, and I am a Computer Science and Bioinformat
 ### 🛠️ Skills and Technologies
 
 - **Programming Languages**:
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  
+
+- **Frameworks**
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- **Software**
+  [![ComfyUI](https://img.shields.io/badge/ComfyUI-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/comfyanonymous/ComfyUI)
+  ![MEGA11](https://img.shields.io/badge/MEGA11-00599C?style=for-the-badge&logo=mega&logoColor=white)
+
 - **Bioinformatics**:  
   - DNA/RNA sequence analysis
   - Biological data modeling
