@@ -10,23 +10,17 @@ Hi there! My name is **Jan Wolski**, and I am a Computer Science and Bioinformat
 
 ### 🛠️ Skills and Technologies
 
-- **Programming Languages**:  
+- **Programming Languages**:
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Golang](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   
 - **Bioinformatics**:  
   - DNA/RNA sequence analysis
   - Biological data modeling
   - Taxsonomy analysis
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your_username&theme=dracula)
 
 ---
 
