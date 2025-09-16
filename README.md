@@ -16,7 +16,7 @@ Hi! I’m **Jan Wolski** — B.Eng. in Computer Science and a Bioinformatics stu
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Detectron2](https://img.shields.io/badge/Detectron2-20232A?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+
 ![PyTorch DDP](https://img.shields.io/badge/PyTorch%20DDP-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Backend & Infra**  
@@ -24,8 +24,7 @@ Hi! I’m **Jan Wolski** — B.Eng. in Computer Science and a Bioinformatics stu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Slurm](https://img.shields.io/badge/SLURM-2E7D32?style=for-the-badge&logo=linux&logoColor=white)
 ![Apptainer](https://img.shields.io/badge/Apptainer-1E4C2E?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge&logo=qdrant&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
 
 **Software**  
 [![ComfyUI](https://img.shields.io/badge/ComfyUI-informational?style=for-the-badge)](https://github.com/comfyanonymous/ComfyUI)
@@ -38,7 +37,7 @@ Hi! I’m **Jan Wolski** — B.Eng. in Computer Science and a Bioinformatics stu
 * **Taxonomy** analysis
 <br>
 
-**Learning** 
+**Learning** <br>
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
