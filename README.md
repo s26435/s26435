@@ -1,47 +1,57 @@
-# 👋 Welcome to My GitHub Profile!
+# Hello there
 
-## 🧑‍💻 About Me
+## About Me
+Hi! I’m **Jan Wolski** — B.Eng. in Computer Science and a Bioinformatics student. Vice President of the **BioAI** student society at the University of Gdańsk.
+---
 
-Hi there! My name is **Jan Wolski**, and I am a Computer Science and Bioinformatics student. I am passionate about software development (especially AI dev), data analysis, and solving biological problems using cutting-edge technology.
+## Skills and Technologies
+
+**Languages**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI/ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Detectron2](https://img.shields.io/badge/Detectron2-20232A?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-4B8BBE?style=for-the-badge)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend & Infra**  
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Slurm](https://img.shields.io/badge/SLURM-2E7D32?style=for-the-badge&logo=linux&logoColor=white)
+![Apptainer](https://img.shields.io/badge/Apptainer-1E4C2E?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Software**  
+[![ComfyUI](https://img.shields.io/badge/ComfyUI-informational?style=for-the-badge)](https://github.com/comfyanonymous/ComfyUI)
+![MEGA11](https://img.shields.io/badge/MEGA11-00599C?style=for-the-badge)
+![KNIME](https://img.shields.io/badge/KNIME-informational?style=for-the-badge&logo=knime&logoColor=black)
+
+**Bioinformatics**  
+* DNA/RNA sequence analysis  
+* Biological data modeling  
+* **Taxonomy** analysis
+
+**Learning**
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+
 
 ---
 
-### 🛠️ Skills and Technologies
-
-- **Programming Languages**: <br>
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-- **Frameworks**<br>
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-- **Software**<br>
-  [![ComfyUI](https://img.shields.io/badge/ComfyUI-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/comfyanonymous/ComfyUI)
-  ![MEGA11](https://img.shields.io/badge/MEGA11-00599C?style=for-the-badge&logo=mega&logoColor=white)
-
-- **Bioinformatics**:  
-  - DNA/RNA sequence analysis
-  - Biological data modeling
-  - Taxsonomy analysis
+## What I’m Working On
+- **OutlineAI** - comming soon
+- **3D Diffusion in Cristalograthy** - custom VAE-UNet diffusion experiments (PyTorch/Lightning), data pipelines, and training utilities.
 
 ---
 
-### 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jan-wolski-a51619232/))
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-wolski-a51619232/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Tezriem/)
 
 ---
-
-### 🎯 My 2024 Goals
-
-- I would like to defend my engineering thesis with an A.
-- Enhance my machine learning skills for bioinformatics AI applications.
-
----
-
-*Thanks for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.*  
