@@ -16,8 +16,8 @@ Hi! I’m **Jan Wolski** — B.Eng. in Computer Science and a Bioinformatics stu
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Detectron2](https://img.shields.io/badge/Detectron2-20232A?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-4B8BBE?style=for-the-badge)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+![PyTorch DDP](https://img.shields.io/badge/PyTorch%20DDP-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Backend & Infra**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -36,8 +36,9 @@ Hi! I’m **Jan Wolski** — B.Eng. in Computer Science and a Bioinformatics stu
 * DNA/RNA sequence analysis  
 * Biological data modeling  
 * **Taxonomy** analysis
+<br>
 
-**Learning**
+**Learning** 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
